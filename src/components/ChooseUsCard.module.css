@@ -1,0 +1,15 @@
+.card{
+  width: 359px;
+  height: 316px;
+  border: 2px solid #022183;
+  border-radius: 35px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: #022183;
+}
+.icon {
+  width: 65px;
+  height: 56px;
+}

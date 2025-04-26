@@ -7,14 +7,32 @@
 }
 .img {
   position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 262.34px;
   width: 262.34px;
   border-radius: 50%;
-  overflow: hidden;
 }
 .img img {
   width: 100%;
   height: auto;
+}
+.icon {
+  position: absolute;
+  right: -5px;
+  bottom: -5px;
+  width: 78.61px;
+  height: 79.61px;
+  border: 1.06px solid #fefefe;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 900;
+  color: #fefefe;
+  backdrop-filter: blur(14.9px);
 }
 .text {
   width: 537px;

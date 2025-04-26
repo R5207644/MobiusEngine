@@ -1,0 +1,50 @@
+.card{
+  display: flex;
+  gap: 4%;
+  padding: 5% 0;
+}
+.main{
+  padding:5% 15%;
+}
+.main h2{
+  color: #0649e7;
+}
+.btnOutline{
+  border: 2px solid #0649e7;
+  padding: 0 40px;
+  color: #0649e7;
+  font-size: 20px;
+  background-color: #fefefe;
+  height: 67.72px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 50px;
+}
+.btnOutline:hover {
+  color: #fefefe;
+  background-color: #0649e7;
+}
+.btns {
+  display: flex;
+  justify-content: center;
+  gap: 7%;
+}
+.chooseUs{
+  width: 1412px;
+  height: 538px;
+  border-radius: 35px;
+  background-color: #f8faff;
+  margin-left: 15%;
+  padding: 3%;
+}
+.chooseUs h2 {
+  margin-bottom: 4%;
+  color: #022183;
+}
+.ChooseUsContainer {
+  display: flex;
+  justify-content: space-between;
+}
