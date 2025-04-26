@@ -1,0 +1,22 @@
+.main {
+  width: 906.41px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 5% 0;
+}
+.img {
+  position: relative;
+  height: 262.34px;
+  width: 262.34px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.img img {
+  width: 100%;
+  height: auto;
+}
+.text {
+  width: 537px;
+  color: #fefefe;
+}
