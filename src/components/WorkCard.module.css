@@ -1,0 +1,22 @@
+.btn {
+  width: 81.65px;
+  height: 81.65px;
+  border-radius: 50%;
+  border: 1.51px solid #022183;
+  font-size: 1.2cm;
+  background-color: #fefefe;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.line{
+  border: 1px solid #0649e7;
+  margin-bottom: 30px;
+}
+.card h4 {
+  color: #0649e7;
+}
+.card {
+  width: 267px;
+  display: flex;
+  flex-direction: column;
+}

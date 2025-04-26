@@ -1,0 +1,18 @@
+.btn, .blue {
+  width: 215.69px;
+  height: 67.72px;
+  border-radius: 33.86px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 500;
+}
+.btn, .blue:hover {
+  color: #022183;
+  background-color: #fefefe;
+}
+.blue, .btn:hover {
+  background-color: #022183;
+  color: #fefefe;
+}

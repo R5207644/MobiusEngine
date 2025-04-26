@@ -1,0 +1,17 @@
+@font-face {
+  font-family: sora;
+  src: url('/sora-semi-bold.ttf');
+}
+h1 {
+  font-size: 80px;
+  font-family: sora;
+}
+h2 {
+  font-size: 40px;
+}
+h3 {
+  font-size: 24px;
+}
+p {
+  font-size: 18px;
+}
