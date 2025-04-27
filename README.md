@@ -1,5 +1,5 @@
 # How To Setup
-clone it in your pc
+clone it in your pc<br>
 command to run - npm run dev
 # React + Vite
 
