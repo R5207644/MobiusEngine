@@ -1,6 +1,7 @@
 # How To Setup
 clone it in your pc<br>
-command to run - npm run dev
+command to run - npm run dev<bt>
+## note one thing - change homepage url if you are deploying<br it on your server>
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
