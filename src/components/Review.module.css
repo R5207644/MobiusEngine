@@ -48,3 +48,65 @@
   display: flex;
   justify-content: space-between;
 }
+
+.plans {
+  color: #0649e7;
+  font-weight: 500;
+}
+.plans{
+  margin-left: 15%;
+}
+.plans h2{
+  margin: 8% 0;
+}
+.cardContainer{
+  display: flex;
+  justify-content:flex-start;
+  gap: 4%;
+}
+
+/* advance component */
+.right span{
+  font-size: 40px;
+  font-family: sora;
+}
+.advance{
+  width: 1296px;
+  height: 324px;
+  padding: 2% 3%;
+  margin: 8% 0;
+  border-radius: 35px;
+  background-color: #0649e7;
+  display: flex;
+  flex-direction: column;
+  color: #fefefe;
+}
+.top, .bottom, .left,.right{
+  display: flex;
+}
+.top, .bottom {
+  justify-content: space-between;
+}
+.left{
+  flex-direction: column;
+  align-items: flex-start;
+}
+.left h2{
+  margin: 0;
+}
+.left hr{
+  width: 100%;
+  color: #fefefe;
+}
+
+.right{
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: baseline;
+}
+.top .right{
+  justify-content: flex-start;
+}
+.endhr{
+  width: 1292px;
+}

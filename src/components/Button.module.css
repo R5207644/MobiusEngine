@@ -9,10 +9,10 @@
   font-weight: 500;
 }
 .btn, .blue:hover {
-  color: #022183;
+  color: #0649e7;
   background-color: #fefefe;
 }
 .blue, .btn:hover {
-  background-color: #022183;
+  background-color: #0649e7;
   color: #fefefe;
 }

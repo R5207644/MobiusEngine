@@ -1,0 +1,61 @@
+.card {
+  width: 450px;
+  height: 826px;
+  padding: 1.4%;
+  border: 2px solid #0649e7;
+  border-radius: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: #0649e7;
+}
+.small{
+  height: 682px;
+  width: 398px;
+}
+
+.card ul{
+  list-style-type: none;
+  margin-top: 20px;
+}
+.cardTop hr{
+  margin-top: 25px;
+}
+.customList li{
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+}
+.customList li::before
+{
+  content: url('../assets/Group77.png');
+  font-size: 20px;
+  margin-right: 10px;
+}
+.isSpecial {
+  border: 1px solid #0649e7;
+  background-color: #ebf1ff;
+  font-size: 17px;
+  padding: 8px 5%;
+  margin-bottom: -8px;
+  border-radius: 35px;
+  text-align: center;
+}
+.isSpecial:empty {
+  height: 0;
+  width: 0;
+  border: none;
+  background-color: #fefefe;
+}
+.heading{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.price{
+  font-size: 40px;
+  font-family: sora;
+}
+.text {
+  font-size: 17px;
+}
