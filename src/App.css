@@ -2,16 +2,31 @@
   font-family: sora;
   src: url('/sora-semi-bold.ttf');
 }
+@font-face {
+  font-family: dmMedium;
+  src: url('/DMSans-Medium.ttf');
+}
+@font-face {
+  font-family: dmSemiBold;
+  src: url('/dm-sans-semi-bold.ttf');
+}
+@font-face {
+  font-family: dmRegular;
+  src: url('/DMSans-Regular.ttf');
+}
 h1 {
   font-size: 80px;
   font-family: sora;
 }
 h2 {
   font-size: 40px;
+  font-family: dmMedium;
 }
 h3 {
   font-size: 24px;
+  font-family: dmSemiBold;
 }
 p {
   font-size: 18px;
+  font-family: dmRegular;
 }

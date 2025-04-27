@@ -1,6 +1,6 @@
 .main{
   height: 354px;
-  margin:5% 5%;
+  margin:5% 5% 2% 5%;
   display: flex;
   justify-content: space-between;
 }
